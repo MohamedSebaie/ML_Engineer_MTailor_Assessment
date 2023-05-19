@@ -8,8 +8,6 @@ You can find the files related to this project on Google Drive. Here are the pat
 
 - [Models Folder](https://drive.google.com/drive/folders/1ZGsrR-9r5k3rp_DTH_rQYaAPb2EVJ2SJ?usp=share_link)
 
-Replace `your_data_folder_id` and `your_results_folder_id` with the actual folder IDs in your Google Drive.
-
 ## Loom
 
 To access the project's video demonstrations, you can find them on Loom. Here are the paths:
